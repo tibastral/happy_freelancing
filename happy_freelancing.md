@@ -2,7 +2,7 @@
 
 
 
-Je m’appelle Thibaut Assus, j’ai 30 ans, je suis freelance en développement web et ma technologie de prédilection est le Ruby on Rails. J’ai maintenant un peu d’expérience dans le domaine du freelancing et ce document a pour but de partager avec vous une partie de cette expérience.
+J’ai 30 ans, je suis freelance en développement web et ma technologie de prédilection est le Ruby on Rails. J’ai maintenant un peu d’expérience dans le domaine du freelancing et ce document a pour but de partager avec vous une partie de cette expérience.
 
 
 ##Mon parcours de développeur Ruby
@@ -16,7 +16,7 @@ Cet intermédiaire n’était pas un développeur et n’avait donc pas pleineme
 
 Puis j’ai eu l’occasion de partir aux États Unis pendant un an. À Philadelphie, j’ai assisté à un évènement pendant lequel j’ai rencontré des développeurs Ruby américains. C’est à cette occasion que j’ai parlé pour la première fois à un freelance qui facturait ses clients non pas au forfait, mais à l’heure. Il s’appelle Trotter Cashion et notre échange a été pour moi un déclic fondamental dans ma manière de penser. Notre discussion peut être résumé ainsi :
 
-Thibaut : « Mais comment fais-tu pour vendre des heures de travail au lieu de fonctionnalités ? »
+Moi : « Mais comment fais-tu pour vendre des heures de travail au lieu de fonctionnalités ? »
 Trotter Cashion : « Je livre simplement du code fonctionnel. »
 
 Quelques temps plus tard, j’ai assisté à un autre évènement qui avait lieu à New York cette fois. Je me souviens de ces deux développeurs assis derrière la table d’un bar. Ils avaient l’air serein. Un homme, apparemment intimidé, s’est approché d’eux et leur a dit :
